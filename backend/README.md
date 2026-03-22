@@ -1,5 +1,3 @@
-FIND THE .SQL FILE IN BACKEND FOLDER.
-
 backend/README.md
 
 # Feature Request Tracker API
