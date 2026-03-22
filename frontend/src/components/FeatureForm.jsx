@@ -123,7 +123,7 @@ export default function FeatureForm({
           />
           <div className="helper" id="title-help">
             <span className={errors.title && touched.title ? "error-text" : ""}>
-              {touched.title && errors.title ? errors.title : "E.g., Allow exporting reports"}
+              {touched.title && errors.title ? errors.title : "E.g., Allow exporting reports as CSV"}
             </span>
             <span>{form.title.length}/{titleMax}</span>
           </div>
