@@ -309,3 +309,4 @@ Ensure src/styles/global.css is imported in main.jsx.
 
 Author
 Kasim Ismail Bakari
+Phone Number: +255774830895.
